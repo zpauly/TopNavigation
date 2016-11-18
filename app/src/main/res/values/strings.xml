@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TopNavigation</string>
+
+    <string name="default_top_nav">DEFAULT</string>
+    <string name="custom_top_nav0">CUSTOM0</string>
+    <string name="custom_top_nav1">CUSTOM1</string>
+</resources>
