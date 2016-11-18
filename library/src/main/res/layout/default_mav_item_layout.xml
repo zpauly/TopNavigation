@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
-    android:background="?attr/colorPrimary"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
@@ -9,7 +8,6 @@
         android:padding="@dimen/nav_padding"
         style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
         android:id="@+id/default_nav_item_title_TV"
-        android:textColor="@color/text_focused_color"
         android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
